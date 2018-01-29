@@ -1,4 +1,5 @@
 import './styles.scss'
+import 'react-calendar-timeline/lib/Timeline.scss'
 
 import React, { Component } from 'react'
 import moment from 'moment'

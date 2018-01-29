@@ -37,6 +37,7 @@ At the very minimum:
 ```jsx
 import Timeline from 'react-calendar-timeline'
 import moment from 'moment'
+import 'react-calendar-timeline/lib/Timeline.css'
 
 const groups = [
   {id: 1, title: 'group 1'},

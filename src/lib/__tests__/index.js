@@ -1,6 +1,7 @@
 import React from 'react'
 import { mount } from 'enzyme'
 import Timeline from '../Timeline'
+import '../Timeline.scss'
 
 import moment from 'moment'
 
